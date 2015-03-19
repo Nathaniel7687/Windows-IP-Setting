@@ -56,7 +56,7 @@ BOOL CWindowsIPSettingDlg::OnInitDialog()
 
     // TODO: Add extra initialization here
     list = createHeadNode();
-	data_tmp = (Data *)malloc(sizeof(Data));
+	
     getAdapterInfo(list);
     
     ListNode *prev = list->head;
