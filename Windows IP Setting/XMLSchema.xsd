@@ -1,0 +1,16 @@
+﻿<user_settings>
+    <setting>
+        <name>LAB 419</name>
+        <ipaddr>210.119.104.153</ipaddr>
+        <ipmask>255.255.255.0</ipmask>
+        <ipgate>210.119.104.254</ipgate>
+        <ipdns>168.126.63.1</ipdns>
+    </setting>
+    <setting>
+        <name>LAB 419-Desktop</name>
+        <ipaddr>210.119.104.154</ipaddr>
+        <ipmask>255.255.255.0</ipmask>
+        <ipgate>210.119.104.254</ipgate>
+        <ipdns>168.126.63.1</ipdns>
+    </setting>
+</user_settings>
